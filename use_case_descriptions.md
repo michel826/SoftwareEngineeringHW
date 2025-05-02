@@ -1,6 +1,6 @@
 
-| actor action | system response |
-| num | action | num | action |
+
+| num | actor action | num | sys response |
 |---|---|---|---|
 |   |   |   |   |
 |   |   |   |   |
